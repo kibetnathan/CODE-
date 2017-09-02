@@ -1,3 +1,7 @@
 body{
 	font-family: 'Orbitron', sans-serif;
 }
+.container{
+	background-image: url(images/octo%20cat.jpg);
+	color: crimson
+}
