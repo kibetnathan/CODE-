@@ -1,5 +1,5 @@
 body{
-	font-family: 'Orbitron', sans-serif;
+font-family: 'Gloria Hallelujah', cursive;
 }
 .container{
 	background-image: url(images/octo%20cat.jpg);
@@ -7,4 +7,8 @@ body{
 }
 .stert{
 	background-color: 00FFB4;
+}
+.sarv{
+	background-color: 07FF0E;
+	color: 0300FF;
 }
